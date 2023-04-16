@@ -15,7 +15,7 @@ print("declaring other data types within strings")
 #str_al = str_a + int_l
 print("\r")
 print("concatenating strings via the space operator")
-str_space = "sss"  "jjj"\
+str_space = "sss"  "jjj"  \
 "ooo" "qqq"\
         "zzz"
 print(str_space)
